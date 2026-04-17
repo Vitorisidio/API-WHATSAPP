@@ -122,7 +122,7 @@ app.get('/v1/senai/help', function (request, response) {
             },
             {
                 "id": 3,
-                "Rota 3": "/v1/senai/whatsapp/dados/contatos/:11966578996",
+                "Rota 3": "/v1/senai/whatsapp/dados/contatos/11966578996",
                 "obs": "Retorna a lista dos dados de contato para cada usuário filtrado pelo número",
             },
             {
